@@ -1,0 +1,1 @@
+<span class="report">-14 &ordm;c</span><img src="images/icon/weather-sunny.png" alt="" /><span class="city"><small>Cloudy</small><b>Edinburgh, UK</b></span>
